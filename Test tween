@@ -1,0 +1,2 @@
+Local TS = game:GetService("TweenService")
+Local tween = TS:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, tweeninfo.new(2), (CFrame = CFrame.new()})
